@@ -73,6 +73,7 @@ SELECT AVG(marks) FROM students; -->
 
 GROUP BY
 
+
 (101,"Olivia","Netbanking","Portland"),
 (102,"Ethan","Credit Card","Miami"),
 (103,"Maya","Credit Card","Seatle"),
