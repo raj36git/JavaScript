@@ -1,0 +1,1 @@
+<!-- module is a piece of reusable JavaScript code. It could be a .js file or a directory containing .js files. You can export the content of these files and use them in other files. -->
